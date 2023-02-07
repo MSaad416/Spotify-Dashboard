@@ -30,7 +30,7 @@ const LOGIN_URI = process.env.NODE_ENV !== 'production'
 
 const Login = () => (
   <StyledLoginContainer>
-    <StyledLoginButton href={LOGIN_URI}>
+    <StyledLoginButton href='https://spotify-stats.herokuapp.com/login'>
       Log in to Spotify
     </StyledLoginButton>
   </StyledLoginContainer>
