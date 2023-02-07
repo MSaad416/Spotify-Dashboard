@@ -1,6 +1,8 @@
 # Spotify Dashboard
 > A web app to visualize spotify user listening data in a minimalistic dashboard.
 
+![demo-gif](https://raw.githubusercontent.com/MSaad416/Spotify-Dashboard/master/client/public/og.png)
+
 
 ## Description
 > A web app to provide users with a personalized dashboard listing their top tracks & artists, favorite genres, and most common playlists.\
