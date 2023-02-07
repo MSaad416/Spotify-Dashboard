@@ -9,7 +9,7 @@
 > Live demo [_here_](https://spotify-stats.herokuapp.com/)
 
 
-## Technologies
+## Technologies Used
 - Reactjs - v18
 - Nodejs - v18
 - Express
