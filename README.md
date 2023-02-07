@@ -1,7 +1,6 @@
 # Spotify Dashboard
 > A web app to visualize spotify user listening data in a minimalistic dashboard.
 
-![demo-gif](https://raw.githubusercontent.com/MSaad416/Spotify-Dashboard/master/client/public/og.png)
 
 
 ## Description
@@ -21,3 +20,4 @@
 - JavaScript
 
 
+![demo-gif](https://raw.githubusercontent.com/MSaad416/Spotify-Dashboard/master/client/public/og.png)
