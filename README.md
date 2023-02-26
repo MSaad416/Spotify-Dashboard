@@ -19,5 +19,3 @@
 - Heroku
 - JavaScript
 
-
-![demo-gif](https://raw.githubusercontent.com/MSaad416/Spotify-Dashboard/master/client/public/og.png)
